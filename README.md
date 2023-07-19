@@ -15,11 +15,6 @@ Dog Mate utilizes the following dependencies:
 
 Make sure you have the required dependencies installed before running the project.
 
-## Usage
-
-Start the development server:
-   ```shell
-   npm start
 
 ## Contributing
 
@@ -34,3 +29,9 @@ Dog Mate is released under the [MIT License](LICENSE). Feel free to use, modify,
 The Dog Mate template was inspired by our love for dogs and the desire to create a platform for dog enthusiasts to connect and share their passion. We would like to thank all contributors and the open-source community for their valuable contributions and support.
 
 Enjoy using Dog Mate to create a pawsome website for dog lovers! If you have any questions or need assistance, please don't hesitate to reach out.
+
+## Usage
+
+Start the development server:
+   ```shell
+   npm start
