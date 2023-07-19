@@ -15,6 +15,25 @@ Dog Mate utilizes the following dependencies:
 
 Make sure you have the required dependencies installed before running the project.
 
+## Usage
+
+To use Dog Mate, follow these steps:
+
+1. Clone the repository:
+   ```shell
+   git clone https://github.com/your-username/dog-mate.git
+
+2. Navigate to the project directory:
+   ```shell
+   cd dog-mate
+   
+3. Install dependencies:
+    ```shell
+    npm install
+4. Start the development server:
+   ```shell
+   npm start
+
 ## Contributing
 
 Contributions to Dog Mate are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Please follow the existing code style and guidelines.
